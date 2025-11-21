@@ -7,6 +7,7 @@ public class Asu {
         int jmlBesar = 0;
         int jmlKecil = 0;
         int jmlBknHuruf = 0;
+        
         System.out.print("Berapa banyak huruf yang ingin diidentifikasi? ");
         int jumlah = sc.nextInt();
         sc.nextLine();
